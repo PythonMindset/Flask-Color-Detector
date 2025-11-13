@@ -1,5 +1,3 @@
-<img width="1015" height="708" alt="image" src="https://github.com/user-attachments/assets/b52f3aee-caf4-4dfe-9c5d-1c463532ac0f" /># 🎨 Flask Color Detector App
-
 This is a beginner-friendly **Flask web app** that detects the **dominant colors** in an uploaded image using **K-Means clustering**.  
 Upload any picture and instantly get the top color HEX codes!
 
